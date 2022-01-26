@@ -1,5 +1,5 @@
 
-[![BhavinRaichura](https://github.com/BhavinRaichura/BhavinRaichura/blob/main/Moon.svg)](https://www.linkedin.com/in/bhavin-raichura-93a657191/)
+[![BhavinRaichura](https://github.com/BhavinRaichura/BhavinRaichura/blob/main/Screenshot_2022-01-26_14-29-54.jpg)](https://www.linkedin.com/in/bhavin-raichura-93a657191/)
 
 - 👋 Hi, I’m @BhavinRaichura
 - 👀 I’m interested in Web Development
