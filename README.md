@@ -1,9 +1,9 @@
 
 <!--
-**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BhavinRaichura/BhavinRaichura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![BhavinRaichura]()](https://www.linkedin.com/in/bhavin-raichura-93a657191/)
+[![BhavinRaichura](https://github.com/BhavinRaichura/BhavinRaichura/blob/main/Screenshot_2022-01-26_14-37-05.jpg)](https://www.linkedin.com/in/bhavin-raichura-93a657191/)
 
 - 👋 Hi, I’m @BhavinRaichura
 - 👀 I’m interested in Web Development
