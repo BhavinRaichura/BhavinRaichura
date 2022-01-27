@@ -8,7 +8,7 @@
 
 
 
-- 👋 Hi, I’m @BhavinRaichura
+# 👋 Hi, I’m @BhavinRaichura
 - 👀 I’m interested in Web Development
 - 💞️ I’m looking to collaborate on Flask web application related projects
 - 🔭 I’m currently working on Flask, HTML5, CSS3, Js
