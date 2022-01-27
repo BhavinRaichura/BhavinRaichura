@@ -32,3 +32,43 @@ Find out more about me & feel free to connect with me here:
 </p>
 
 ---
+
+## ⚡ Tech Stack
+
+### 🚀 Languages
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 💻 Libraries & Framework
+
+![Flask](https://img.shields.io/badge/Flask-010101?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-515966?style=for-the-badge&logo=json&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-ff00e1?style=for-the-badge&logo=SCSS&logoColor=white)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-3c8114?style=for-the-badge&logo=MongoDB&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-326CC7?style=for-the-badge&logo=SQLite&logoColor=white)
+
+### 🧑🏻‍💻 Tools & Platform
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Codier](https://img.shields.io/badge/Codier-515966?&style=for-the-badge&logo=codier&logoColor=black)
+
+
+## 📈 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BhavinRaichura&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BhavinRaichura&hide_border=true&theme=radical" />
+</p>
