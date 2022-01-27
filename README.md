@@ -68,5 +68,4 @@ Find out more about me & feel free to connect with me here:
 
 ## 📈 Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BhavinRaichura&theme=leafy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-Copy To Clipboard
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BhavinRaichura&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
