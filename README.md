@@ -50,7 +50,7 @@ Find out more about me & feel free to connect with me here:
 ![JSON](https://img.shields.io/badge/JSON-515966?style=for-the-badge&logo=json&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-ff00e1?style=for-the-badge&logo=SCSS&logoColor=white)
 
-### Database
+### 🗄️ Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-3c8114?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-326CC7?style=for-the-badge&logo=SQLite&logoColor=white)
