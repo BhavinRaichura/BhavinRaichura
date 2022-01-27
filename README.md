@@ -49,6 +49,8 @@ Find out more about me & feel free to connect with me here:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-515966?style=for-the-badge&logo=json&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-ff00e1?style=for-the-badge&logo=SCSS&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-7f6000?style=for-the-badge&logo=SymPy&logoColor=white)
+![Latex](https://img.shields.io/badge/Latex-3a697e?style=for-the-badge&logo=Latex&logoColor=white)
 
 ### 🗄️ Database
 
@@ -64,6 +66,8 @@ Find out more about me & feel free to connect with me here:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Codier](https://img.shields.io/badge/Codier-515966?&style=for-the-badge&logo=codier&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-fc9913?&style=for-the-badge&logo=Jupyter&logoColor=black)
+![CLion](https://img.shields.io/badge/CLion-55f4a0?&style=for-the-badge&logo=CLion&logoColor=black)
 
 
 ## 📈 Stats
