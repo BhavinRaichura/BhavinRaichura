@@ -32,6 +32,7 @@ Find out more about me & feel free to connect with me here:
 </p>
 
 ---
+![Bhavin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BhavinRaichura&hide_border=true&theme=redical)
 
 ## ⚡ Tech Stack
 
