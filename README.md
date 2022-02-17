@@ -75,5 +75,6 @@ Find out more about me & feel free to connect with me here:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BhavinRaichura&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavinRaichura&layout=compact&langs_count=6)](https://github.com/BhavinRaichura/github-readme-stats)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BhavinRaichura)
 
 <Img sec="https://profile-summary-for-github.com/user/BhavinRaichura" />
