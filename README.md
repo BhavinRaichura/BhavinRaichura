@@ -47,7 +47,7 @@ Find out more about me & feel free to connect with me here:
 ### 💻 Libraries & Framework
 
 ![Flask](https://img.shields.io/badge/Flask-010101?style=for-the-badge&logo=flask&logoColor=white)
-![ReactJs](https://img.shields.io/badge/ReactJs-010101?style=for-the-badge&logo=reactjs&logoColor=white)
+![ReactJs](https://img.shields.io/badge/ReactJs-010101?style=for-the-badge&logo=reactjs&logoColor=blue)
 ![NextJs](https://img.shields.io/badge/NextJs-010101?style=for-the-badge&logo=nextjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-515966?style=for-the-badge&logo=json&logoColor=white)
