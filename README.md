@@ -48,6 +48,7 @@ Find out more about me & feel free to connect with me here:
 
 ![Flask](https://img.shields.io/badge/Flask-010101?style=for-the-badge&logo=flask&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/ReactJs-010101?style=for-the-badge&logo=reactjs&logoColor=white)
+![NextJs](https://img.shields.io/badge/NextJs-010101?style=for-the-badge&logo=nextjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-515966?style=for-the-badge&logo=json&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-ff00e1?style=for-the-badge&logo=SCSS&logoColor=white)
